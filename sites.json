@@ -1,0 +1,12 @@
+[
+	{
+	    "name": "Google",
+	    "url": "http://www.google.com",
+	    "enabled": true
+	},
+	{
+	    "name": "Example",
+	    "url": "http://example.com",
+	    "enabled": false
+	}
+]

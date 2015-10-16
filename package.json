@@ -1,0 +1,12 @@
+{
+  "name": "urldiff",
+  "version": "1.0.0",
+  "description": "Checks urls, grabs screenshots, takes diff of screenshot",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "image-diff": "^1.2.0",
+    "pageres": "^2.1.0"
+  }
+}
